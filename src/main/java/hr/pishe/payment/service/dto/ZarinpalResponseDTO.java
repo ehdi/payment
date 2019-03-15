@@ -1,4 +1,4 @@
-package io.avand.payment.service.dto;
+package hr.pishe.payment.service.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.io.Serializable;

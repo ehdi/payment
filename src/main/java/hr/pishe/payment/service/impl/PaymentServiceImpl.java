@@ -1,12 +1,12 @@
-package io.avand.payment.service.impl;
+package hr.pishe.payment.service.impl;
 
-import io.avand.payment.config.AppConfig;
-import io.avand.payment.repository.ZarinpalRepository;
-import io.avand.payment.service.PaymentService;
-import io.avand.payment.service.dto.PaymentDTO;
-import io.avand.payment.service.dto.ZarinpalResponseDTO;
-import io.avand.payment.service.dto.ZarinpalVerifyResponseDTO;
-import io.avand.payment.service.error.PaymentException;
+import hr.pishe.payment.service.dto.PaymentDTO;
+import hr.pishe.payment.service.dto.ZarinpalVerifyResponseDTO;
+import hr.pishe.payment.config.AppConfig;
+import hr.pishe.payment.repository.ZarinpalRepository;
+import hr.pishe.payment.service.PaymentService;
+import hr.pishe.payment.service.dto.ZarinpalResponseDTO;
+import hr.pishe.payment.service.error.PaymentException;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.stereotype.Service;
 

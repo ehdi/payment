@@ -1,6 +1,6 @@
-package io.avand.payment.service;
+package hr.pishe.payment.service;
 
-import io.avand.payment.service.dto.PaymentDTO;
+import hr.pishe.payment.service.dto.PaymentDTO;
 
 public interface PaymentService {
     PaymentDTO createPaymentLink(Long var1, String var2);

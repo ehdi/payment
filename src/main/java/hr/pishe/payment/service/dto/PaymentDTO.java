@@ -1,4 +1,4 @@
-package io.avand.payment.service.dto;
+package hr.pishe.payment.service.dto;
 
 import java.io.Serializable;
 

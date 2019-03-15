@@ -1,4 +1,4 @@
-package io.avand.payment.config;
+package hr.pishe.payment.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
